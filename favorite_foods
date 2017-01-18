@@ -1,0 +1,37 @@
+<html>
+	<body>
+		<h1>These are my favorite things</h1>
+		<h2>By: Adam Glover	</h2>
+		<h3><a href="#Movies">My Movies</a></h5>
+		<h3><a href="#Foods"> My Foods</a></h5>
+		<h3><a href="#Shows"> My Shows</a></h5>
+		<h3><a href="#Music"> My Music</a></h5>
+
+		<h2 id="Movies">My Movies</h2>
+			<ol>
+				<li><a href="https://www.rottentomatoes.com/m/i_robot">I Robot</a></li>
+				<li><a href="https://www.rottentomatoes.com/m/inception">Inception</a></li>
+				<li><a href="https://www.rottentomatoes.com/m/pirates_of_the_caribbean_dead_mans_chest">Pirates of the Caribbean Dead Mans Chest</a></li>
+			</ol>
+
+    <h2 id="Foods">My Foods</h2>
+			<ol>
+		    <li><a href="http://pizza.com/">Pizza</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Pasta">Pasta</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Salmon">Salmon</a></li>
+			</ol>
+
+    <h2 id="Shows">My Shows</h2>
+			<ol>
+				<li><a href="http://www.usanetwork.com/mrrobot">Mr. Robot</a></li>
+				<li><a href="http://www.imdb.com/title/tt2085059/">Black Mirror</a></li>
+			</ol>
+
+    <h2 id="Music">My Music</h2>
+			<ol>
+				<li><a href="https://www.youtube.com/watch?v=cScVoZWVDLQ">One day by Hans Zimmer</a></li>
+				<li><a href="https://www.youtube.com/watch?v=I6ofUtay9bM">Pick up the phone by Lupe Fiasco</a></li>
+				<li><a href="https://www.youtube.com/watch?v=kF9ijspj3l4">Time is dancing by Ben Howard </a></li>
+			</ol>
+	</body>
+</html>
