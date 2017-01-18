@@ -1,0 +1,27 @@
+<html>
+	<body>
+		<h1>Scrambled Eggs</h1>
+		<h2>By: Adam Glover	</h2>
+		<p>I make this breakfast because it is the fast breakfast food that I know how to make</p>
+
+		<h2>Ingredients</h2>
+    <!-- Bullet Points-->
+		<ul>
+			<li>2 eggs</li>
+			<li>1 tbs butter</li>
+			<li>5 tbs milk</li>
+			<li>1/2 tbs salt</li>
+			<li>1/2 tbs pepper</li>
+		</ul>
+		<h2>What to do </h2>
+    <!-- List Points-->
+		<ol>
+			<li>Melt butter in a frying pan over a medium heat</li>
+			<li>Scramble 2 eggs, milk, salt, and pepper in a bowl</li>
+			<li>Once butter has melted add the mixture to the frying pan</li>
+			<li>Wait until you see bubbles forming near the circumference of mixture then slide a spatuala under to check if mixture has solidified.</li>
+			<li>Once the entire bottom has solidified, flip the mixture over and cook the other side</li>
+		</ol>
+
+	</body>
+</html>
