@@ -1,0 +1,77 @@
+<html>
+<head>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+</head>
+
+<body>
+  <h1>Course Schedule</h1>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Course Number</th>
+          <th>Time</th>
+          <th>Day</th>
+          <th>Class</th>
+          <th>Professor</th>
+          <th>Credits</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>12172</td>
+          <td>12:40 pm - 2:00 pm</td>
+          <td>MW</td>
+          <td>Product Organization Management </td>
+          <td>Anupam Kumar</td>
+          <td>3.00</td>
+        </tr>
+        <tr>
+          <td>16537</td>
+          <td>3:40 pm - 5:00 pm</td>
+          <td>MW</td>
+          <td>Web Authoring Tools</td>
+          <td>Alton Henley, Allison J. Morgan</td>
+          <td>3.00</td>
+        </tr>
+        <tr>
+          <td>11952</td>
+          <td>11:00 pm - 12:40 pm</td>
+          <td>TR</td>
+          <td>Finance Principles</td>
+          <td>B. Paul Choi </td>
+          <td>3.00</td>
+        </tr>
+        <tr>
+          <td>11936</td>
+          <td>12:40 pm - 2:00 pm</td>
+          <td>MW</td>
+          <td>Business Law</td>
+          <td>Victor Dates</td>
+          <td>3.00</td>
+        </tr>
+           <tr>
+          <td>16378</td>
+          <td>2:10 pm - 3:30 pm</td>
+          <td>TR</td>
+          <td>Intro to Philosophy</td>
+          <td>Yolonda Y Wilson</td>
+          <td>3.00</td>
+        </tr>
+        <tr>
+        <td>16379</td>
+        <td>3:40 pm - 5:00 pm</td>
+        <td>TR</td>
+        <td>Systems Analysis Design</td>
+        <td>Daniel N Owunwanne</td>
+        <td>3.00</td>
+        </tr>
+
+      </tbody>
+    </table>
+
+  </body>
+</html>
