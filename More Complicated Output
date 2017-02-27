@@ -1,0 +1,5 @@
+name = "Bob Newhard"
+pay_rate = 25.25
+hours_worked = 45
+pay = pay_rate * hours_worked
+print('Name:', name, '\n', "Pay Rate: $", pay_rate, '\n', "Hours Worked:", hours_worked, '\n', "Total Pay: $", pay)
